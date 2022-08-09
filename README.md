@@ -1,5 +1,5 @@
 # GURU1-SWU-WEB
-### :star: 서울여대 구루1 - python/html반
+### :star: 서울여대 구루1 최우수상 수상 - python/html반
 
 <br>
 
